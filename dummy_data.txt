@@ -1,0 +1,33 @@
+$ ./profiles.py
+<dict at 0x20d590a7678>:
+  username: 'gmorgan'
+  name: 'Jessica Clark'
+  sex: 'F'
+  address: '694 Joseph Valleys\nJohnfort, ME 81780'
+  mail: 'bettybuckley@yahoo.com'
+  birthdate: <str at 0x20d5bcbd7b0>: 'datetime.date(1938, 9, 18)'
+--------------------------
+<dict at 0x20d5b0065e8>:
+  username: 'mrios'
+  name: 'Harold Wagner'
+  sex: 'M'
+  address: '26439 Robinson Radial\nWest Meghanmouth, PA 85463'
+  mail: 'josechoi@gmail.com'
+  birthdate: <str at 0x20d5bcbd7b0>: 'datetime.date(1986, 8, 18)'
+--------------------------
+<dict at 0x20d5bd24990>:
+  job: 'Engineer, communications'
+  company: 'Jackson-Willis'
+  ssn: '430-41-6118'
+  residence: 'USNS Odom\nFPO AP 47095'
+  current_location: <tuple at 0x20d5bca9a88>
+    0: <str at 0x20d5bd248a0>: "Decimal('74.1885785')"
+    1: <str at 0x20d5bd248a0>: "Decimal('119.951995')"
+  blood_group: 'O-'
+  website: ['http://roberson.com/']
+  username: 'ygutierrez'
+  name: 'Lindsay Walker'
+  sex: 'F'
+  address: '22968 Beverly Road Suite 918\nTimothyborough, SD 10494'
+  mail: 'aliciamccall@yahoo.com'
+  birthdate: <str at 0x20d5bcbd7b0>: 'datetime.date(1979, 1, 4)'
